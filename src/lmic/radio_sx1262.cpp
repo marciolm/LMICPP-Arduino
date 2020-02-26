@@ -552,7 +552,7 @@ void RadioSx1262::init_config() const {
   calibrate_all();
   set_standby(true);
 
-  // set_DIO2_as_rf_switch_ctrl();
+  set_DIO2_as_rf_switch_ctrl();
   set_packet_type_lora();
   set_sync_word_lora();
 }
