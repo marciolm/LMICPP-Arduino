@@ -1,4 +1,5 @@
-# LORAWAN Librairie for Arduino and SX1276/2 , SX1262 lora chip
+This fork is intended to document some tweeks I did in the excelent library created by Ngraziano to work in US915 MHz band and Ebyte E22-900T30S and E22-900T22S modules
+# LORAWAN Library for Arduino and SX1276/2 or SX1262 lora chip
 
 * Based on LMIC librairy.
 * Modified to get C++ style.
